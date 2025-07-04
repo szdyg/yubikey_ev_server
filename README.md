@@ -58,7 +58,7 @@ http://tsa.starfieldtech.com
 
 ## 3. 其他问题
 
-如果一直签名失败，先下载个[SSL Manager](https://www.ssl.com/ssl-manager/)，试下哪里不对吧，比较代码从里面扣的。
+如果一直签名失败，先下载个[SSL Manager](https://www.ssl.com/ssl-manager/)，试下哪里不对吧，毕竟代码从里面扣的。
 
 ![2c74b30d-f2b7-4743-8519-049999a2cb3b](./pic/2c74b30d-f2b7-4743-8519-049999a2cb3b.png)
 
